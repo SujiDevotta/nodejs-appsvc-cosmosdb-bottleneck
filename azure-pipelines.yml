@@ -11,7 +11,7 @@ pool:
 
 variables:
   webAppName: 'AzureLoadTesting'
-  serviceConnection: 'MyAzureRMConnection'
+  serviceConnection: 'Performancetestingservice'
   azureSubscriptionId: '96d45c1c-2099-4f89-8a1a-f68da08d49bd'
   loadTestResource: 'AzureLoadTesting_Suji'
   loadTestResourceGroup: 'PerformanceTesting-Sample_group'
